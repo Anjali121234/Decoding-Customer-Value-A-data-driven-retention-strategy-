@@ -108,14 +108,13 @@ images/
 ---
 ## 👨‍💻 Author
 
-**Harsh Rishi**
+**Anjali**
 
-B.Tech, Civil Engineering
+B.Tech, Prodction and Industrial Engineering
 Indian Institute of Technology Roorkee
 
 📧 Email: **[harshrishi2007@gmail.com](mailto:harshrishi2007@gmail.com)**
 
-💼 LinkedIn: **https://www.linkedin.com/in/harsh-rishi-426b84346**
 
 ---
 
